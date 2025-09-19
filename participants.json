@@ -6,7 +6,7 @@
                 "TermURL": "nb:ParticipantID",
                 "Label": ""
             },
-            "Identifies": "participant"
+            "VariableType": "Identifier"
         }
     },
     "session_id": {
@@ -52,7 +52,8 @@
             },
             "MissingValues": [
                 "Key"
-            ]
+            ],
+            "VariableType": "Categorical"
         }
     },
     "size": {
